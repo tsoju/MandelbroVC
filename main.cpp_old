@@ -1,0 +1,136 @@
+#define LINDA
+#include <QApplication>
+#ifdef LINDA
+#include <linda/server.hpp>
+#include <linda/datatypes/base_type.hpp>
+#endif
+#include "mainwindow.h"
+#include <pthread.h>
+
+#define THREAD_NUM 4
+void *worker(void *);
+
+#ifdef LINDA
+LINDA::TUPLESPACE *linda_server;
+#endif
+
+int main(int argc,char *argv[]){
+  QApplication app(argc,argv);
+  MainWindow w; 
+  int ret;
+#ifdef LINDA
+  int i;
+  pthread_t th[THREAD_NUM];
+#endif
+
+  //w.initGlEw();
+    
+  w.show();
+
+  // init glew
+
+  
+  // OpenGL context is created.
+  // Then We can call glewInit() (especially for Windows)
+
+
+  
+#ifdef LINDA
+  if(argc != 3){
+    std::cerr<<"usage : "<<argv[0]<<" port#1 port#2\n";
+    exit(EXIT_FAILURE);
+  }
+  // create a server object
+  linda_server = new LINDA::TUPLESPACE(atoi(argv[1]),  // communication port
+				       atoi(argv[2])); // multicast     port
+  linda_server->init();
+
+  for(i=0;i<THREAD_NUM;i++){
+    pthread_create(th+i,NULL,worker,&i);
+  }
+#endif
+  
+  ret = app.exec();
+
+#ifdef LINDA
+  linda_server->stop();
+#endif
+
+  return ret;
+}
+
+#if 0
+#ifdef LINDA
+void *worker(void *arg){
+  LINDA::TYPE::String result;
+  LINDA::TYPE::Double x_s,x_e;
+  LINDA::TYPE::Double y_s,y_e;
+  LINDA::TYPE::Integer _w,_h;
+
+  double _x_s,_x_e;
+  double _y_s,_y_e;
+  int __w,__h;
+  
+  int i,j,k;
+  double c_x,c_y;
+  double a,b,_a,_b;
+  double x_pix_length,y_pix_length;
+  double half_x_pix_length,half_y_pix_length;
+
+  int *res;
+
+  char *res_c;
+
+  
+  while(1){
+    linda_server->in(&x_s,&y_s,&x_e,&y_e,&_w,&_h);
+    printf("worker #%d is running\n",*((int *)arg));
+
+    _x_s = x_s();
+    _y_s = y_s();
+    _x_e = x_e();
+    _y_e = y_e();
+    __w = _w();
+    __h = _h();
+
+    x_pix_length = (_x_e - _x_s)/(double)__w;
+    y_pix_length = (_y_e - _y_s)/(double)__h;
+    half_x_pix_length = x_pix_length /  2.0;
+    half_y_pix_length = y_pix_length /  2.0;
+
+    c_x = _x_s + half_x_pix_length;
+    c_y = _y_s + half_y_pix_length;
+    //res = new int[__w * __h];
+    res_c = (char *)new int[__w * __h];
+    res = (int *)res_c;
+    
+    for(i=0;i<__h;i++){
+      for(j=0;j<__w;j++){
+	a=0;
+	b=0;
+#define DEFAULT_MAX_ITERATE 255
+	for(k=0;k<DEFAULT_MAX_ITERATE;k++){
+	  _a = a * a - b * b + c_x;
+	  _b = 2 * a * b + c_y;
+	  if(a*a + b*b > 4.0)
+	    break;
+	  a = _a;
+	  b = _b;
+	}
+	*(res + __h*i + j) = k;
+	c_x += x_pix_length;
+      }
+      c_x = _x_s + half_x_pix_length;
+      c_y += y_pix_length;
+    }
+
+    printf("length :%ld\n",strlen(res_c));
+
+    linda_server->out(&result);
+    delete[] res;
+    
+  }
+  return NULL;
+}
+#endif
+#endif

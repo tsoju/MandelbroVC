@@ -1,0 +1,195 @@
+#include <iostream>
+#include <stdio.h>
+#include "glwidget.h"
+#include "mandelbro.h"
+#include "tile.h"
+
+using namespace std;
+
+GLWidget::GLWidget(QWidget *parent):QGLWidget(parent){
+}
+
+#define TEXSIZE 512
+
+GLubyte bits[TEXSIZE][TEXSIZE][3];
+GLuint texhandle[16];
+GLfloat texCoord[]={
+  0,0,0,1.0,1.0,0,1.0,1.0,
+  0,0,0,1.0,1.0,0,1.0,1.0,
+  0,0,0,1.0,1.0,0,1.0,1.0,
+  0,0,0,1.0,1.0,0,1.0,1.0,
+  1.0,0,1.0,1.0,0,0,0,1.0,
+  1.0,0,1.0,1.0,0,0,0,1.0,
+  1.0,0,1.0,1.0,0,0,0,1.0,
+  1.0,0,1.0,1.0,0,0,0,1.0,
+  0,0,0,1.0,1.0,0,1.0,1.0,
+  0,0,0,1.0,1.0,0,1.0,1.0,
+  0,0,0,1.0,1.0,0,1.0,1.0,
+  0,0,0,1.0,1.0,0,1.0,1.0,
+  1.0,0,1.0,1.0,0,0,0,1.0,
+  1.0,0,1.0,1.0,0,0,0,1.0,
+  1.0,0,1.0,1.0,0,0,0,1.0,
+  1.0,0,1.0,1.0,0,0,0,1.0,
+};
+class tile *tl[16];
+
+#define BWIDTH_INC 4
+#define BHEIGHT_INC 4
+
+GLfloat vertex[3*((BWIDTH_INC+1)*2-1)*4+3];
+
+void GLWidget::initializeGL(){
+    glClearColor(0.2,0.9,0.9,1.0);
+  //  glOrtho(0.0,1.0,0.0,1.0,-1.0,1.0);
+  
+  int i,j,k;
+  float x=-1.0;
+  float y=-1.0;
+  float tx,ty;
+  float z=0;
+  
+  float bwidth = 2.0 / float(BWIDTH_INC);
+  float bheight = 2.0 / float(BHEIGHT_INC);
+  float xstep = bwidth;
+
+  struct area_coord crd;
+  double xd,yd,l=1.0;
+  xd=-2.0;
+  yd=-2.0;
+  
+  for(i=0;i<BHEIGHT_INC;i++){
+    for(j=0;j<BWIDTH_INC;j++){
+      crd.x_s = xd;
+      crd.y_s = yd;
+      crd.x_e = xd+1.0;
+      crd.y_e = yd+1.0;
+      tl[BWIDTH_INC*i + j] = new tile(&crd,TEXSIZE,TEXSIZE);
+      tl[BWIDTH_INC*i + j]->calc_me();
+      tl[BWIDTH_INC*i + j]->make_texture();
+      xd += l;
+    }
+    xd = -2.0;
+    yd += l;
+  }
+
+  int p=0;
+  for(i=0;i<BHEIGHT_INC;i++){
+    for(j=0;j<BWIDTH_INC+1;j++){
+      ty = y;
+      for(k=0;k<2;k++){
+	vertex[p++] = x;
+	vertex[p++] = y;
+	vertex[p++] = z;
+	y += bheight;
+      }
+      y = ty;
+      tx = x;
+      x += xstep;
+    }
+    p -= 3;
+    xstep *= -1.0;
+    x = tx;
+    y += bheight;
+  }
+
+  p=0;
+  for(i=0;i<BHEIGHT_INC;i++){
+    for(j=0;j<BWIDTH_INC+1;j++){
+      for(k=0;k<2;k++){
+	if((j==BWIDTH_INC && k==1) && (i!=BHEIGHT_INC-1 && j!=BWIDTH_INC+1))
+	  break;
+	printf("%f ",vertex[p++]);
+	printf("%f ",vertex[p++]);
+	printf("%f\n",vertex[p++]);
+      }
+    }
+    printf("\n");
+  }
+
+  for (i = 0 ; i < TEXSIZE ; i++) {
+    int r = (i * 0xFF) / TEXSIZE;
+    for (j = 0 ; j < TEXSIZE ; j++) {
+      bits[i][j][0] = (GLubyte)r;
+      bits[i][j][1] = (GLubyte)(( j * 0xFF ) / TEXSIZE);
+      bits[i][j][2] = (GLubyte)~r;
+    }
+  }
+
+  glEnable(GL_TEXTURE_2D);
+
+  for(i=0;i<16;i++){
+    glGenTextures(1,texhandle+i);
+    glBindTexture(GL_TEXTURE_2D,*(texhandle+i));
+    glTexImage2D(GL_TEXTURE_2D,0,GL_RGB,TEXSIZE,TEXSIZE,0,GL_RGB,GL_UNSIGNED_BYTE,tl[i]->get_texture());
+    glTexParameteri( GL_TEXTURE_2D, GL_TEXTURE_MIN_FILTER, GL_NEAREST );
+    glTexParameterf( GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_NEAREST );
+  }
+
+#if 0
+  glTexParameteri( GL_TEXTURE_2D, GL_TEXTURE_MIN_FILTER, GL_LINEAR );
+  glTexParameterf( GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_LINEAR );
+#endif 
+  glBindTexture(GL_TEXTURE_2D,0);
+  //tl[5]->show();
+}
+
+void GLWidget::paintGL(){
+  
+  glClear(GL_COLOR_BUFFER_BIT);
+  //  glBindTexture(GL_TEXTURE_2D,texName);
+  
+  glEnable(GL_TEXTURE_2D);
+  glEnableClientState(GL_VERTEX_ARRAY);
+  glEnableClientState(GL_TEXTURE_COORD_ARRAY);
+  
+  glVertexPointer(3,GL_FLOAT,0,vertex);
+  glTexCoordPointer(2,GL_FLOAT,0,texCoord);
+  
+  
+  //glBindTexture(GL_TEXTURE_2D,texhandle[4]);
+  
+  //glDrawArrays(GL_TRIANGLE_STRIP,0,4);
+  //glDrawArrays(GL_TRIANGLE_STRIP,0,2*(BWIDTH_INC+1)*BHEIGHT_INC);
+  
+  
+  int p=0;
+  for(int i=0;i<BHEIGHT_INC;i++){
+    for(int j=0;j<BWIDTH_INC;j++){
+      //glBindTexture(GL_TEXTURE_2D,texhandle[i*BWIDTH_INC + j]);
+      //glPushMatrix();
+      //glBindTexture(GL_TEXTURE_2D,texhandle[i*BWIDTH_INC + j]);
+      //glTexCoordPointer(2,GL_FLOAT,0,0);
+      glDrawArrays(GL_TRIANGLE_STRIP,p,4);
+      
+      glTexCoordPointer(2,GL_FLOAT,0,texCoord);
+      glBindTexture(GL_TEXTURE_2D,texhandle[5]);
+      glDrawArrays(GL_TRIANGLE_STRIP,p,4);
+
+      //glPopMatrix();
+      p += 2;
+    }
+    p += 1;
+  }
+
+  //  tl[5]->show();
+
+#if 0
+glBegin(GL_POLYGON);
+  glTexCoord2d(0.0,0.0); glVertex2f(-0.9,-0.9);
+  glTexCoord2d(1.0,0.0); glVertex2f(-0.9,0.9);
+  glTexCoord2d(1.0,1.0); glVertex2f(0.9,0.9);
+  glTexCoord2d(0.0,1.0); glVertex2f(0.9,-0.9);
+glEnd();
+#endif
+
+
+  
+//  glFlush();
+}
+
+void GLWidget::resizeGL(int width,int height){
+  glViewport(0,0,width,height);
+  glLoadIdentity();
+  //  glOrtho(0.0,1.0,0.0,1.0,-1.0,1.0);
+}
+

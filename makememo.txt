@@ -1,0 +1,20 @@
+QT += opengl network
+LIBS += -lGLU -lboost_system -ltuplespace
+# QMAKE_CXXFLAGS += -g -O0
+
+win32{
+  QMAKE_CXXFLAGS += 111
+}
+
+unix{
+  QMAKE_CXXFLAGS += -g -O0
+}
+
+
+### for Windows VC
+# Add BOM to utf-8
+# check *.c, *.h, *.cpp, *.hpp without BOM
+find . -type f \( -name '*.[ch]' -o -name '*.cpp' -o -name '*.hpp' \) -exec file {} + | grep -v "(with BOM)" | cut -d: -f1
+
+# add BOM
+uconv -f utf-8 -t utf-8 --add-signature foo.cpp > foo_bom.cpp

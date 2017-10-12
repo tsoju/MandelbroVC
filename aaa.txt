@@ -1,0 +1,7 @@
+[48;5;53m[37m[5410] accepting incoming connections (fd==9) ...[0m[K
+[48;5;53m[37mdeque ready..[0m[K
+[48;5;53m[37mdeque ready..[0m[K
+[48;5;53m[37mdeque ready..[0m[K
+[44m[31mINIT[0m[K[48;5;17m[32mLUPE WAS INITED!!![0m[K[48;5;17m[32mTILE WAS CREATED[0m[K
+[44m[37mMANDELBRO NEWED[0m[K
+[48;5;17m[32moT[0m[K[48;5;17m[32moT[0m[K[48;5;17m[32moT[0m[K[48;5;17m[32moT[0m[K

@@ -1,0 +1,88 @@
+#include <stdio.h>
+#include "task_spawner.h"
+
+#ifdef CPPLINDA
+#include <linda/server.hpp>
+#include <linda/datatypes/base_type.hpp>
+extern LINDA::TUPLESPACE *linda_server;
+#else
+#include "dlst.h"
+#include "tgroup.h"
+#endif
+
+task_spawner::task_spawner(struct tsp_task_info *ti){
+  this->ti = *ti;
+}
+
+task_spawner::task_spawner(){
+}
+
+task_spawner::~task_spawner(){
+  printf("process is destroyed\n");
+}
+
+void task_spawner::process(){
+#ifdef CPPLINDA
+  LINDA::TYPE::Integer div;
+  LINDA::TYPE::Integer pos;
+  LINDA::TYPE::Double x_s,x_e;
+  LINDA::TYPE::Double y_s,y_e;
+  LINDA::TYPE::Integer _w,_h;
+
+  _w = ti.dw;
+  _h = ti.dh;
+ 
+  double div_l_x = (ti.crd.x_e - ti.crd.x_s)/double(ti.div_h);
+  double div_l_y = (ti.crd.y_e - ti.crd.y_s)/double(ti.div_v);
+
+  /*
+    0- 7bit: horizontal subtile num
+    8-15bit: vertical subtile num
+  */
+  LINDA::TYPE::String id(ti.uuid_s);
+
+  //  printf("\t SEND-id is %s\n",id().c_str());
+
+  for(int i=0;i<ti.div_v;i++)
+    for(int j=0;j<ti.div_h;j++){
+      pos = (i<<8) | j;
+      x_s = ti.crd.x_s + div_l_x*j;
+      y_s = ti.crd.y_s + div_l_y*i;
+      x_e = x_s() + div_l_x;
+      y_e = y_s() + div_l_y;
+
+#if 0
+      printf("x_s: %15.14f\n",x_s());
+      printf("y_s: %15.14f\n",y_s());
+      printf("x_e: %15.14f\n",x_e());
+      printf("y_e: %15.14f\n",y_e());
+      printf("_w: %d\n",_w());
+      printf("_h: %d\n",_h());
+#endif
+
+      linda_server->out(&id,&pos,&x_s,&y_s,&x_e,&y_e,&_w,&_h);
+    }
+#else
+  std::string tgid(ti.uuid_s);
+  struct dlst *lst_to_add = get_task_list(tgid);
+  
+  struct mandel_task_info mti;
+  mti.w = ti.dw;
+  mti.h = ti.dh;
+  double div_l_x = (ti.crd.x_e - ti.crd.x_s)/double(ti.div_h);
+  double div_l_y = (ti.crd.y_e - ti.crd.y_s)/double(ti.div_v);
+  for(int i=0;i<ti.div_v;i++)
+    for(int j=0;j<ti.div_h;j++){
+      mti.pos = (i<<8) | j;
+      mti.x_s = ti.crd.x_s + div_l_x*j;
+      mti.y_s = ti.crd.y_s + div_l_y*i;
+      mti.x_e = mti.x_s + div_l_x;
+      mti.y_e = mti.y_s + div_l_y;
+
+      dlst_enQ(lst_to_add,sizeof(struct mandel_task_info),&mti);
+    }
+  
+#endif
+  printf("@@@ @@@ task spawned\n");
+  emit finished();
+}

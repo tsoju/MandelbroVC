@@ -1,0 +1,6216 @@
+this is 0x14e25b0
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+Old Size -1 x -1
+New Size 1031 x 1028
+New Size 1031 x 1028
+0x14bf380 da
+AIUEO 
+AIUEO22222222222222222222 
+resized 
+$$$ worker# 0 is waiting in
+$$$ worker# 1 is waiting in
+$$$ worker# 2 is waiting in
+$$$ worker# 3 is waiting in
+$$$ worker# 4 is waiting in
+$$$ worker# 5 is waiting in
+$$$ worker# 6 is waiting in
+$$$ worker# 7 is waiting in
+prepare normal
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+	array_index = 0
+@@@ @@@ task spawned
+size is 1024x1024
+waiting for res
+worker #3 is running
+length :5592408
+@@@ result OUT, worker# 3
+$$$ worker# 3 is waiting in
+out_len is 4194304
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+410 1011@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+410 1011@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+408 979@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+404 947@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+400 915@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+396 885@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+392 855@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+388 827@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+384 797@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+362 721@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+348 687@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+336 665@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+324 655@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+317 653@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+311 654@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+302 658@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+289 666@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+274 674@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+254 686@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+232 695@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+205 711@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+193 718@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+191 720@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+194 720@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+196 720@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+200 718@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+209 705@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+222 688@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+232 668@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+241 645@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+251 622@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+260 590@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+263 573@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+268 558@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+269 546@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+271 538@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+272 534@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+273 534@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+274 537@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+276 539@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+276 542@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+277 544@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+278 547@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+280 552@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+281 557@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+281 561@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+281 564@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+280 568@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+279 570@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+278 571@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+277 571@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+274 572@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+273 572@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+271 573@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+267 574@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+265 575@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+264 576@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+263 577@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+262 579@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+262 579@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+261 581@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+261 581@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+261 582@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+261 583@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+260 584@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+260 585@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+260 586@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+260 585@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+mouth is pressed x: 260, y: 585
+drag_unit:0.001953, mag_x:1.000000, base_mag:1.000000
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+mouth is released x: 260, y: 585
+prepare normal
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+	array_index = 0
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+260 585@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+########## mouse is Double-Clicked
+##########260 585 
+-0.492188 -0.142578
+   0.0000035484    0.0000035484
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0000314366    0.0000314366
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0000859486    0.0000859486
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0001657854    0.0001657854
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0002696686    0.0002696686
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0003963410    0.0003963410
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0005445662    0.0005445662
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0007131289    0.0007131289
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+mouth is released x: 260, y: 585
+-0.492188 -0.142578
+   0.0009008346    0.0009008346
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0011065099    0.0011065099
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0013290023    0.0013290023
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0015671802    0.0015671802
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0018199330    0.0018199330
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0020861711    0.0020861711
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0023648257    0.0023648257
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0026548491    0.0026548491
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0029552146    0.0029552146
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0032649164    0.0032649164
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0035829694    0.0035829694
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0039084099    0.0039084099
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0042402949    0.0042402949
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0045777023    0.0045777023
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0049197311    0.0049197311
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0052655011    0.0052655011
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0056141534    0.0056141534
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0059648496    0.0059648496
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0063167725    0.0063167725
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0066691259    0.0066691259
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0070211344    0.0070211344
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0073720437    0.0073720437
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0077211203    0.0077211203
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0080676517    0.0080676517
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0084109465    0.0084109465
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0087503341    0.0087503341
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0090851650    0.0090851650
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0094148104    0.0094148104
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0097386627    0.0097386627
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0100561351    0.0100561351
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0103666619    0.0103666619
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0106696983    0.0106696983
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0109647203    0.0109647203
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0112512251    0.0112512251
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0115287307    0.0115287307
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0117967761    0.0117967761
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0120549213    0.0120549213
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0123027471    0.0123027471
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0125398554    0.0125398554
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0127658691    0.0127658691
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0129804318    0.0129804318
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0131832084    0.0131832084
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0133738845    0.0133738845
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0135521667    0.0135521667
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0137177826    0.0137177826
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0138704808    0.0138704808
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0140100308    0.0140100308
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0141362229    0.0141362229
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0142488687    0.0142488687
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0143478005    0.0143478005
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0144328716    0.0144328716
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0145039562    0.0145039562
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0145609497    0.0145609497
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0146037681    0.0146037681
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0146323487    0.0146323487
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0146466494    0.0146466494
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0146466494    0.0146466494
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0146323487    0.0146323487
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0146037681    0.0146037681
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0145609497    0.0145609497
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0145039562    0.0145039562
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0144328716    0.0144328716
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0143478005    0.0143478005
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0142488687    0.0142488687
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0141362229    0.0141362229
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0140100308    0.0140100308
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0138704808    0.0138704808
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0137177826    0.0137177826
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0135521667    0.0135521667
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0133738845    0.0133738845
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0131832084    0.0131832084
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0129804318    0.0129804318
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0127658691    0.0127658691
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0125398554    0.0125398554
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0123027471    0.0123027471
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0120549213    0.0120549213
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0117967761    0.0117967761
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0115287307    0.0115287307
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0112512251    0.0112512251
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0109647203    0.0109647203
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0106696983    0.0106696983
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0103666619    0.0103666619
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0100561351    0.0100561351
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0097386627    0.0097386627
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0094148104    0.0094148104
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0090851650    0.0090851650
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0087503341    0.0087503341
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0084109465    0.0084109465
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0080676517    0.0080676517
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0077211203    0.0077211203
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0073720437    0.0073720437
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0070211344    0.0070211344
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0066691259    0.0066691259
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0063167725    0.0063167725
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0059648496    0.0059648496
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0056141534    0.0056141534
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0052655011    0.0052655011
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0049197311    0.0049197311
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0045777023    0.0045777023
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0042402949    0.0042402949
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0039084099    0.0039084099
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0035829694    0.0035829694
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0032649164    0.0032649164
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0029552146    0.0029552146
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0026548491    0.0026548491
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0023648257    0.0023648257
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0020861711    0.0020861711
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0018199330    0.0018199330
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0015671802    0.0015671802
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0013290023    0.0013290023
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0011065099    0.0011065099
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0009008346    0.0009008346
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0007131289    0.0007131289
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0005445662    0.0005445662
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0003963410    0.0003963410
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0002696686    0.0002696686
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0001657854    0.0001657854
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0000859486    0.0000859486
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0000314366    0.0000314366
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.492188 -0.142578
+   0.0000035484    0.0000035484
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+x:-0.492188, y:-0.142578
+get_render_info x:-0.984375, y:-0.285156
+cent_crd_x:-0.984375, y:-0.285156
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+prepare normal
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+	array_index = 0
+@@@ @@@ task spawned
+size is 1024x1024
+waiting for res
+worker #0 is running
+length :5592408
+@@@ result OUT, worker# 0
+$$$ worker# 0 is waiting in
+out_len is 4194304
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+updated
+261 584@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+263 582@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+268 578@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+276 570@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+286 560@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+298 549@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+311 538@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+329 526@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+365 500@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+435 462@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+479 436@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+517 414@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+539 398@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+547 390@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+550 388@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+mouth is released x: 550, y: 388
+prepare normal
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+	array_index = 0
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+550 388@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+mouth is released x: 550, y: 388
+prepare normal
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+	array_index = 0
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+550 388@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+550 391@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+549 395@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+547 397@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+547 400@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+546 402@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+545 403@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+544 406@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+542 408@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+540 411@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+538 415@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+537 417@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+mouth is released x: 537, y: 417
+prepare normal
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+	array_index = 0
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+537 417@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+522 432@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+511 437@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+499 440@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+485 442@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+468 443@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+449 446@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+436 446@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+428 446@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+427 446@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+425 446@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+424 445@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+422 445@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+417 444@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+411 443@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+404 443@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+396 441@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+387 441@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+379 440@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+373 439@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+366 438@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+357 437@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+349 436@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+337 434@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+331 433@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+325 433@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+321 433@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+317 432@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+313 432@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+308 432@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+303 432@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+298 431@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+293 431@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+291 431@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+290 430@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+288 430@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+283 429@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+281 429@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+279 428@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+276 428@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+272 427@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+268 426@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+262 425@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+255 424@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+249 423@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+248 423@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+247 422@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+247 420@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+246 420@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+246 419@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+245 418@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+245 417@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+244 416@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+243 415@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+242 414@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+mouth is pressed x: 242, y: 414
+drag_unit:0.001953, mag_x:1.000000, base_mag:16.000000
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+moved x: 0, y: 1
+camera pos x: 0.000000, y: -0.001953
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: -1, num:2
+tile not prepared
+mouth is released x: 242, y: 413
+prepare normal
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: -1, num:2
+	array_index = 7
+@@@ @@@ task spawned
+worker #1 is running
+size is 1024x1024
+waiting for res
+length :5592408
+@@@ result OUT, worker# 1
+$$$ worker# 1 is waiting in
+out_len is 4194304
+	array_index = 0
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: -1, num:2
+242 413@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: -1, num:2
+########## mouse is Double-Clicked
+##########242 413 
+-0.527344 0.193359
+   0.0000035484    0.0000035484
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+242 413@
+-0.527344 0.193359
+   0.0000314366    0.0000314366
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0000859486    0.0000859486
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0001657854    0.0001657854
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0002696686    0.0002696686
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0003963410    0.0003963410
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0005445662    0.0005445662
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+mouth is released x: 242, y: 413
+-0.527344 0.193359
+   0.0007131289    0.0007131289
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0009008346    0.0009008346
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0011065099    0.0011065099
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0013290023    0.0013290023
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0015671802    0.0015671802
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0018199330    0.0018199330
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: -1, num:2
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0020861711    0.0020861711
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0023648257    0.0023648257
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0026548491    0.0026548491
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0029552146    0.0029552146
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0032649164    0.0032649164
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0035829694    0.0035829694
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0039084099    0.0039084099
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0042402949    0.0042402949
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0045777023    0.0045777023
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0049197311    0.0049197311
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0052655011    0.0052655011
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0056141534    0.0056141534
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0059648496    0.0059648496
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0063167725    0.0063167725
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0066691259    0.0066691259
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0070211344    0.0070211344
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0073720437    0.0073720437
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0077211203    0.0077211203
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0080676517    0.0080676517
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0084109465    0.0084109465
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0087503341    0.0087503341
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0090851650    0.0090851650
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0094148104    0.0094148104
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0097386627    0.0097386627
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0100561351    0.0100561351
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0103666619    0.0103666619
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0106696983    0.0106696983
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0109647203    0.0109647203
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0112512251    0.0112512251
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0115287307    0.0115287307
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0117967761    0.0117967761
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0120549213    0.0120549213
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0123027471    0.0123027471
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0125398554    0.0125398554
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0127658691    0.0127658691
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0129804318    0.0129804318
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0131832084    0.0131832084
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0133738845    0.0133738845
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0135521667    0.0135521667
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0137177826    0.0137177826
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0138704808    0.0138704808
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0140100308    0.0140100308
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0141362229    0.0141362229
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0142488687    0.0142488687
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0143478005    0.0143478005
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0144328716    0.0144328716
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0145039562    0.0145039562
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0145609497    0.0145609497
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0146037681    0.0146037681
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0146323487    0.0146323487
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0146466494    0.0146466494
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0146466494    0.0146466494
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0146323487    0.0146323487
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0146037681    0.0146037681
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0145609497    0.0145609497
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0145039562    0.0145039562
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0144328716    0.0144328716
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0143478005    0.0143478005
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0142488687    0.0142488687
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0141362229    0.0141362229
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0140100308    0.0140100308
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0138704808    0.0138704808
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0137177826    0.0137177826
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0135521667    0.0135521667
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0133738845    0.0133738845
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0131832084    0.0131832084
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0129804318    0.0129804318
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0127658691    0.0127658691
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0125398554    0.0125398554
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0123027471    0.0123027471
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0120549213    0.0120549213
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0117967761    0.0117967761
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0115287307    0.0115287307
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0112512251    0.0112512251
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0109647203    0.0109647203
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0106696983    0.0106696983
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0103666619    0.0103666619
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0100561351    0.0100561351
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0097386627    0.0097386627
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0094148104    0.0094148104
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0090851650    0.0090851650
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0087503341    0.0087503341
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0084109465    0.0084109465
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0080676517    0.0080676517
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0077211203    0.0077211203
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0073720437    0.0073720437
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0070211344    0.0070211344
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0066691259    0.0066691259
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0063167725    0.0063167725
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0059648496    0.0059648496
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0056141534    0.0056141534
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0052655011    0.0052655011
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0049197311    0.0049197311
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0045777023    0.0045777023
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0042402949    0.0042402949
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0039084099    0.0039084099
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0035829694    0.0035829694
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0032649164    0.0032649164
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0029552146    0.0029552146
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0026548491    0.0026548491
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0023648257    0.0023648257
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0020861711    0.0020861711
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0018199330    0.0018199330
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0015671802    0.0015671802
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0013290023    0.0013290023
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0011065099    0.0011065099
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0009008346    0.0009008346
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0007131289    0.0007131289
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0005445662    0.0005445662
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0003963410    0.0003963410
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0002696686    0.0002696686
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0001657854    0.0001657854
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0000859486    0.0000859486
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0000314366    0.0000314366
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.527344 0.193359
+   0.0000035484    0.0000035484
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+x:-0.527344, y:0.191406
+get_render_info x:-1.050293, y:-0.261230
+cent_crd_x:-1.050293, y:-0.261230
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+prepare normal
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+	array_index = 0
+@@@ @@@ task spawned
+size is 1024x1024
+waiting for res
+worker #6 is running
+length :5592408
+@@@ result OUT, worker# 6
+$$$ worker# 6 is waiting in
+out_len is 4194304
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+updated
+242 413@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+244 414@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+249 420@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+255 427@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+258 436@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+262 444@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+266 456@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+271 467@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+275 477@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+283 497@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+291 521@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+292 533@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+293 543@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+293 547@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+293 548@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+mouth is pressed x: 293, y: 548
+drag_unit:0.001953, mag_x:1.000000, base_mag:64.000000
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+moved x: 0, y: -1
+camera pos x: 0.000000, y: 0.001953
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:2
+tile not prepared
+mouth is released x: 293, y: 549
+prepare normal
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:2
+	array_index = 0
+	array_index = 3
+@@@ @@@ task spawned
+size is 1024x1024
+waiting for res
+worker #2 is running
+length :5592408
+@@@ result OUT, worker# 2
+$$$ worker# 2 is waiting in
+out_len is 4194304
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:2
+293 549@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:2
+########## mouse is Double-Clicked
+##########293 549 
+-0.427734 -0.072266
+   0.0000035484    0.0000035484
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+mouth is released x: 293, y: 549
+mouth is pressed x: 293, y: 549
+drag_unit:0.001953, mag_x:1.000000, base_mag:64.000000
+-0.427734 -0.072266
+   0.0000314366    0.0000314366
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+moved x: -21, y: -121
+camera pos x: 0.041014, y: 0.238281
+-0.427734 -0.072266
+   0.0000859486    0.0000859486
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+moved x: -23, y: -130
+camera pos x: 0.044920, y: 0.255859
+-0.427734 -0.072266
+   0.0001657854    0.0001657854
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0002696686    0.0002696686
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+moved x: -23, y: -137
+camera pos x: 0.044920, y: 0.269531
+-0.427734 -0.072266
+   0.0003963410    0.0003963410
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+moved x: -24, y: -145
+camera pos x: 0.046873, y: 0.285156
+-0.427734 -0.072266
+   0.0005445662    0.0005445662
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+moved x: -24, y: -153
+camera pos x: 0.046873, y: 0.300781
+-0.427734 -0.072266
+   0.0007131289    0.0007131289
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+moved x: -25, y: -157
+camera pos x: 0.048827, y: 0.308593
+-0.427734 -0.072266
+   0.0009008346    0.0009008346
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0011065099    0.0011065099
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0013290023    0.0013290023
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0015671802    0.0015671802
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+mouth is released x: 268, y: 706
+moved x: -23, y: -154
+camera pos x: 0.044920, y: 0.302734
+-0.427734 -0.072266
+   0.0018199330    0.0018199330
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+moved x: -19, y: -148
+camera pos x: 0.037108, y: 0.291015
+-0.427734 -0.072266
+   0.0020861711    0.0020861711
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0023648257    0.0023648257
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+moved x: -13, y: -140
+camera pos x: 0.025389, y: 0.275390
+-0.427734 -0.072266
+   0.0026548491    0.0026548491
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+moved x: -11, y: -137
+camera pos x: 0.021483, y: 0.269531
+-0.427734 -0.072266
+   0.0029552146    0.0029552146
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0032649164    0.0032649164
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+moved x: -10, y: -133
+camera pos x: 0.019530, y: 0.261718
+-0.427734 -0.072266
+   0.0035829694    0.0035829694
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+moved x: -9, y: -131
+camera pos x: 0.017577, y: 0.257812
+-0.427734 -0.072266
+   0.0039084099    0.0039084099
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0042402949    0.0042402949
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+moved x: -6, y: -125
+camera pos x: 0.011717, y: 0.246093
+-0.427734 -0.072266
+   0.0045777023    0.0045777023
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+moved x: -6, y: -124
+camera pos x: 0.011717, y: 0.244140
+-0.427734 -0.072266
+   0.0049197311    0.0049197311
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0052655011    0.0052655011
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+moved x: -6, y: -123
+camera pos x: 0.011717, y: 0.242187
+-0.427734 -0.072266
+   0.0056141534    0.0056141534
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0059648496    0.0059648496
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0063167725    0.0063167725
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0066691259    0.0066691259
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+moved x: -5, y: -121
+camera pos x: 0.009764, y: 0.238281
+-0.427734 -0.072266
+   0.0070211344    0.0070211344
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+moved x: -3, y: -115
+camera pos x: 0.005858, y: 0.226562
+-0.427734 -0.072266
+   0.0073720437    0.0073720437
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+moved x: -2, y: -110
+camera pos x: 0.003905, y: 0.216797
+-0.427734 -0.072266
+   0.0077211203    0.0077211203
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0080676517    0.0080676517
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+moved x: 1, y: -98
+camera pos x: -0.001955, y: 0.193359
+-0.427734 -0.072266
+   0.0084109465    0.0084109465
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+moved x: 2, y: -96
+camera pos x: -0.003908, y: 0.189453
+-0.427734 -0.072266
+   0.0087503341    0.0087503341
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0090851650    0.0090851650
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+moved x: 2, y: -93
+camera pos x: -0.003908, y: 0.183593
+-0.427734 -0.072266
+   0.0094148104    0.0094148104
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+mouth is pressed x: 295, y: 642
+drag_unit:0.001670, mag_x:1.169669, base_mag:64.000000
+-0.427734 -0.072266
+   0.0097386627    0.0097386627
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+moved x: 3, y: 17
+camera pos x: -0.012944, y: 0.154526
+-0.427734 -0.072266
+   0.0100561351    0.0100561351
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+moved x: 3, y: 18
+camera pos x: -0.012944, y: 0.152857
+-0.427734 -0.072266
+   0.0103666619    0.0103666619
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0106696983    0.0106696983
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+moved x: 3, y: 19
+camera pos x: -0.012944, y: 0.151187
+-0.427734 -0.072266
+   0.0109647203    0.0109647203
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0112512251    0.0112512251
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0115287307    0.0115287307
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0117967761    0.0117967761
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0120549213    0.0120549213
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0123027471    0.0123027471
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0125398554    0.0125398554
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0127658691    0.0127658691
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0129804318    0.0129804318
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0131832084    0.0131832084
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0133738845    0.0133738845
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0135521667    0.0135521667
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0137177826    0.0137177826
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0138704808    0.0138704808
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0140100308    0.0140100308
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0141362229    0.0141362229
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0142488687    0.0142488687
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0143478005    0.0143478005
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0144328716    0.0144328716
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0145039562    0.0145039562
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0145609497    0.0145609497
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0146037681    0.0146037681
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0146323487    0.0146323487
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0146466494    0.0146466494
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0146466494    0.0146466494
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0146323487    0.0146323487
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0146037681    0.0146037681
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0145609497    0.0145609497
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0145039562    0.0145039562
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0144328716    0.0144328716
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0143478005    0.0143478005
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0142488687    0.0142488687
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0141362229    0.0141362229
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0140100308    0.0140100308
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0138704808    0.0138704808
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0137177826    0.0137177826
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0135521667    0.0135521667
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0133738845    0.0133738845
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0131832084    0.0131832084
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0129804318    0.0129804318
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0127658691    0.0127658691
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0125398554    0.0125398554
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0123027471    0.0123027471
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0120549213    0.0120549213
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0117967761    0.0117967761
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0115287307    0.0115287307
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0112512251    0.0112512251
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0109647203    0.0109647203
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0106696983    0.0106696983
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0103666619    0.0103666619
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0100561351    0.0100561351
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0097386627    0.0097386627
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0094148104    0.0094148104
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0090851650    0.0090851650
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0087503341    0.0087503341
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0084109465    0.0084109465
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0080676517    0.0080676517
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0077211203    0.0077211203
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0073720437    0.0073720437
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0070211344    0.0070211344
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0066691259    0.0066691259
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0063167725    0.0063167725
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0059648496    0.0059648496
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0056141534    0.0056141534
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0052655011    0.0052655011
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0049197311    0.0049197311
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0045777023    0.0045777023
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0042402949    0.0042402949
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0039084099    0.0039084099
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0035829694    0.0035829694
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0032649164    0.0032649164
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0029552146    0.0029552146
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0026548491    0.0026548491
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0023648257    0.0023648257
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0020861711    0.0020861711
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0018199330    0.0018199330
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0015671802    0.0015671802
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0013290023    0.0013290023
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0011065099    0.0011065099
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0009008346    0.0009008346
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0007131289    0.0007131289
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0005445662    0.0005445662
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0003963410    0.0003963410
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0002696686    0.0002696686
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0001657854    0.0001657854
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0000859486    0.0000859486
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0000314366    0.0000314366
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+-0.427734 -0.072266
+   0.0000035484    0.0000035484
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+x:-0.427734, y:-0.070312
+get_render_info x:-1.063660, y:-0.263428
+tl_array deleted
+cent_crd_x:-1.063660, y:-0.263428
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+prepare normal
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+	array_index = 0
+@@@ @@@ task spawned
+size is 1024x1024
+waiting for res
+worker #4 is running
+length :5592408
+@@@ result OUT, worker# 4
+$$$ worker# 4 is waiting in
+out_len is 4194304
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+updated
+moved x: 3, y: 16
+camera pos x: -0.000000, y: -0.000000
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+moved x: 1, y: 14
+camera pos x: -0.000000, y: -0.000000
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+moved x: 0, y: 9
+camera pos x: 0.000000, y: -0.000000
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+moved x: -2, y: 6
+camera pos x: 0.000000, y: -0.000000
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+moved x: -4, y: 4
+camera pos x: 0.000000, y: -0.000000
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+moved x: -5, y: 1
+camera pos x: 0.000000, y: -0.000000
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+moved x: -8, y: -4
+camera pos x: 0.000000, y: 0.000000
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+moved x: -10, y: -9
+camera pos x: 0.000000, y: 0.000000
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+moved x: -12, y: -13
+camera pos x: 0.000000, y: 0.000000
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+moved x: -14, y: -16
+camera pos x: 0.000000, y: 0.000000
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+moved x: -15, y: -17
+camera pos x: 0.000000, y: 0.000000
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+moved x: -15, y: -18
+camera pos x: 0.000000, y: 0.000000
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+mouth is released x: 280, y: 660
+prepare normal
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+	array_index = 0
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+280 660@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+280 660@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+284 659@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+289 658@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+294 657@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+300 656@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+309 653@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+317 652@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+341 648@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+372 639@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+412 629@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+457 614@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+509 593@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+595 559@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+649 537@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+695 517@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+733 497@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+767 477@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+797 457@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+817 439@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+829 427@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+831 424@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+830 425@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+829 428@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+827 430@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+825 433@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+822 435@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+821 437@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+817 440@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+813 444@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+809 446@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+804 448@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+798 450@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+793 451@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+781 450@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+768 448@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+752 444@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+740 444@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+729 442@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+721 442@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+716 442@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+712 443@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+709 443@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+707 444@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+705 445@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+702 446@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+699 447@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+697 448@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+696 448@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+mouth is pressed x: 696, y: 448
+drag_unit:0.001953, mag_x:1.000000, base_mag:256.000000
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+moved x: -1, y: 0
+camera pos x: 0.001953, y: 0.000000
+render normal called
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:1
+tile not prepared
+mouth is released x: 695, y: 448
+prepare normal
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:1
+	array_index = 0
+	array_index = 1
+@@@ @@@ task spawned
+size is 1024x1024
+waiting for res
+worker #7 is running
+length :5592408
+@@@ result OUT, worker# 7
+$$$ worker# 7 is waiting in
+out_len is 4194304
+render normal called
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:1
+695 448@
+render normal called
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:1
+########## mouse is Double-Clicked
+##########695 448 
+0.357422 0.125000
+   0.0000035484    0.0000035484
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+mouth is released x: 695, y: 448
+0.357422 0.125000
+   0.0000314366    0.0000314366
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0000859486    0.0000859486
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0001657854    0.0001657854
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0002696686    0.0002696686
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0003963410    0.0003963410
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0005445662    0.0005445662
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0007131289    0.0007131289
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0009008346    0.0009008346
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0011065099    0.0011065099
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0013290023    0.0013290023
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0015671802    0.0015671802
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0018199330    0.0018199330
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0020861711    0.0020861711
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0023648257    0.0023648257
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0026548491    0.0026548491
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0029552146    0.0029552146
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0032649164    0.0032649164
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0035829694    0.0035829694
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0039084099    0.0039084099
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0042402949    0.0042402949
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0045777023    0.0045777023
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0049197311    0.0049197311
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0052655011    0.0052655011
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0056141534    0.0056141534
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0059648496    0.0059648496
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0063167725    0.0063167725
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0066691259    0.0066691259
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0070211344    0.0070211344
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0073720437    0.0073720437
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0077211203    0.0077211203
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0080676517    0.0080676517
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0084109465    0.0084109465
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0087503341    0.0087503341
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0090851650    0.0090851650
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0094148104    0.0094148104
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0097386627    0.0097386627
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0100561351    0.0100561351
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0103666619    0.0103666619
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0106696983    0.0106696983
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0109647203    0.0109647203
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0112512251    0.0112512251
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0115287307    0.0115287307
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0117967761    0.0117967761
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0120549213    0.0120549213
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0123027471    0.0123027471
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0125398554    0.0125398554
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0127658691    0.0127658691
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0129804318    0.0129804318
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0131832084    0.0131832084
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0133738845    0.0133738845
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0135521667    0.0135521667
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0137177826    0.0137177826
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0138704808    0.0138704808
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0140100308    0.0140100308
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0141362229    0.0141362229
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0142488687    0.0142488687
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0143478005    0.0143478005
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0144328716    0.0144328716
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0145039562    0.0145039562
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0145609497    0.0145609497
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0146037681    0.0146037681
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0146323487    0.0146323487
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0146466494    0.0146466494
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0146466494    0.0146466494
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0146323487    0.0146323487
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0146037681    0.0146037681
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0145609497    0.0145609497
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0145039562    0.0145039562
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0144328716    0.0144328716
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0143478005    0.0143478005
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0142488687    0.0142488687
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0141362229    0.0141362229
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0140100308    0.0140100308
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0138704808    0.0138704808
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0137177826    0.0137177826
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0135521667    0.0135521667
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0133738845    0.0133738845
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0131832084    0.0131832084
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0129804318    0.0129804318
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0127658691    0.0127658691
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0125398554    0.0125398554
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0123027471    0.0123027471
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0120549213    0.0120549213
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0117967761    0.0117967761
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0115287307    0.0115287307
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0112512251    0.0112512251
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0109647203    0.0109647203
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0106696983    0.0106696983
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0103666619    0.0103666619
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0100561351    0.0100561351
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0097386627    0.0097386627
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0094148104    0.0094148104
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0090851650    0.0090851650
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0087503341    0.0087503341
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0084109465    0.0084109465
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0080676517    0.0080676517
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0077211203    0.0077211203
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0073720437    0.0073720437
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0070211344    0.0070211344
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0066691259    0.0066691259
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0063167725    0.0063167725
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0059648496    0.0059648496
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0056141534    0.0056141534
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0052655011    0.0052655011
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0049197311    0.0049197311
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0045777023    0.0045777023
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0042402949    0.0042402949
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0039084099    0.0039084099
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0035829694    0.0035829694
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0032649164    0.0032649164
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0029552146    0.0029552146
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0026548491    0.0026548491
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0023648257    0.0023648257
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0020861711    0.0020861711
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0018199330    0.0018199330
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0015671802    0.0015671802
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0013290023    0.0013290023
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0011065099    0.0011065099
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0009008346    0.0009008346
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0007131289    0.0007131289
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0005445662    0.0005445662
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0003963410    0.0003963410
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0002696686    0.0002696686
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0001657854    0.0001657854
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0000859486    0.0000859486
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0000314366    0.0000314366
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+0.357422 0.125000
+   0.0000035484    0.0000035484
+
+!!! render_need_st_x: 0, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+x:0.359375, y:0.125000
+get_render_info x:-1.060852, y:-0.262451
+tl_array deleted
+cent_crd_x:-1.060852, y:-0.262451
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+prepare normal
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+	array_index = 0
+@@@ @@@ task spawned
+size is 1024x1024
+waiting for res
+worker #5 is running
+length :5592408
+@@@ result OUT, worker# 5
+$$$ worker# 5 is waiting in
+out_len is 4194304
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+updated
+693 449@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+691 449@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+684 450@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+674 451@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+660 453@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+641 454@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+600 456@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+553 456@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+511 454@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+468 452@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+431 448@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+391 444@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+351 440@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+317 436@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+288 432@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+265 430@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+245 425@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+238 424@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+mouth is pressed x: 238, y: 424
+drag_unit:0.001953, mag_x:1.000000, base_mag:1024.000000
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+mouth is released x: 238, y: 424
+prepare normal
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+	array_index = 0
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+238 424@
+render normal called
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+########## mouse is Double-Clicked
+##########238 424 
+-0.535156 0.171875
+   0.0000035484    0.0000035484
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+237 424@
+-0.535156 0.171875
+   0.0000314366    0.0000314366
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0000859486    0.0000859486
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0001657854    0.0001657854
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0002696686    0.0002696686
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0003963410    0.0003963410
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0005445662    0.0005445662
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0007131289    0.0007131289
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+mouth is released x: 237, y: 424
+-0.535156 0.171875
+   0.0009008346    0.0009008346
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0011065099    0.0011065099
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0013290023    0.0013290023
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0015671802    0.0015671802
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0018199330    0.0018199330
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0020861711    0.0020861711
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0023648257    0.0023648257
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0026548491    0.0026548491
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0029552146    0.0029552146
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0032649164    0.0032649164
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0035829694    0.0035829694
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0039084099    0.0039084099
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0042402949    0.0042402949
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0045777023    0.0045777023
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0049197311    0.0049197311
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0052655011    0.0052655011
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0056141534    0.0056141534
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0059648496    0.0059648496
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0063167725    0.0063167725
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0066691259    0.0066691259
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0070211344    0.0070211344
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0073720437    0.0073720437
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0077211203    0.0077211203
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0080676517    0.0080676517
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0084109465    0.0084109465
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0087503341    0.0087503341
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0090851650    0.0090851650
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0094148104    0.0094148104
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0097386627    0.0097386627
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0100561351    0.0100561351
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0103666619    0.0103666619
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0106696983    0.0106696983
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0109647203    0.0109647203
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0112512251    0.0112512251
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0115287307    0.0115287307
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0117967761    0.0117967761
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0120549213    0.0120549213
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0123027471    0.0123027471
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0125398554    0.0125398554
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0127658691    0.0127658691
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0129804318    0.0129804318
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0131832084    0.0131832084
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0133738845    0.0133738845
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0135521667    0.0135521667
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0137177826    0.0137177826
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0138704808    0.0138704808
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0140100308    0.0140100308
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0141362229    0.0141362229
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0142488687    0.0142488687
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0143478005    0.0143478005
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0144328716    0.0144328716
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0145039562    0.0145039562
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0145609497    0.0145609497
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0146037681    0.0146037681
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0146323487    0.0146323487
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0146466494    0.0146466494
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0146466494    0.0146466494
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0146323487    0.0146323487
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0146037681    0.0146037681
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0145609497    0.0145609497
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0145039562    0.0145039562
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0144328716    0.0144328716
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0143478005    0.0143478005
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0142488687    0.0142488687
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0141362229    0.0141362229
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0140100308    0.0140100308
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0138704808    0.0138704808
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0137177826    0.0137177826
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0135521667    0.0135521667
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0133738845    0.0133738845
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0131832084    0.0131832084
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0129804318    0.0129804318
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0127658691    0.0127658691
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0125398554    0.0125398554
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0123027471    0.0123027471
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0120549213    0.0120549213
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0117967761    0.0117967761
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0115287307    0.0115287307
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0112512251    0.0112512251
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0109647203    0.0109647203
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0106696983    0.0106696983
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0103666619    0.0103666619
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0100561351    0.0100561351
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0097386627    0.0097386627
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0094148104    0.0094148104
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0090851650    0.0090851650
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0087503341    0.0087503341
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0084109465    0.0084109465
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0080676517    0.0080676517
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0077211203    0.0077211203
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0073720437    0.0073720437
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0070211344    0.0070211344
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0066691259    0.0066691259
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0063167725    0.0063167725
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0059648496    0.0059648496
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0056141534    0.0056141534
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0052655011    0.0052655011
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0049197311    0.0049197311
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0045777023    0.0045777023
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0042402949    0.0042402949
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0039084099    0.0039084099
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0035829694    0.0035829694
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0032649164    0.0032649164
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0029552146    0.0029552146
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0026548491    0.0026548491
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0023648257    0.0023648257
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0020861711    0.0020861711
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0018199330    0.0018199330
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0015671802    0.0015671802
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0013290023    0.0013290023
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0011065099    0.0011065099
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0009008346    0.0009008346
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0007131289    0.0007131289
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0005445662    0.0005445662
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0003963410    0.0003963410
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0002696686    0.0002696686
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0001657854    0.0001657854
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0000859486    0.0000859486
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0000314366    0.0000314366
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+-0.535156 0.171875
+   0.0000035484    0.0000035484
+
+!!! render_need_st_x: -1, num:2
+!!! render_need_st_y: 0, num:2
+tile not prepared
+tile not prepared
+tile not prepared
+x:-0.535156, y:0.171875
+get_render_info x:-1.061897, y:-0.262115
+tl_array deleted
+cent_crd_x:-1.061897, y:-0.262115
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+prepare normal
+!!! render_need_st_x: 0, num:1
+!!! render_need_st_y: 0, num:1
+	array_index = 0
+@@@ @@@ task spawned
+size is 1024x1024
+waiting for res

@@ -1,0 +1,224 @@
+#include <stdio.h>
+#include "render.h"
+#include <GL/glu.h>
+
+#define WIDTH 2048
+#define HEIGHT 2048
+
+render::render(){
+  need_recalc = 1;
+  mag_x = 0.5;
+  width = WIDTH;
+  height = HEIGHT;
+
+  //  glGenFramebuffers(1,&frame_buffer);
+  //  glBindFramebuffer(GL_FRAMEBUFFER,frame_buffer);
+
+  glEnable(GL_TEXTURE_2D);
+  glGenTextures(1,&texture);
+  glBindTexture(GL_TEXTURE_2D,texture);
+  //  glTexImage2D(GL_TEXTURE_2D,0,GL_RGB,2048,2048,0,GL_RGB,GL_UNSIGNED_BYTE,0);
+
+  //glFramebufferTexture(GL_FRAMEBUFFER,GL_COLOR_ATTACHMENT0,texture,0);
+
+  //  DrawBuffers[0] = GL_COLOR_ATTACHMENT0;
+  //  glDrawBuffers(1,DrawBuffers);
+}
+
+render::~render(){
+}
+
+#define IMG_X 256
+#define IMG_Y 256
+unsigned char image[IMG_Y][IMG_X][3];
+
+void drawImage(void){
+  int x,y;
+
+  for(y=0;y<IMG_Y;y++){
+    for(x=0;x<IMG_X;x++){
+      image[y][x][0] = y % 256;
+      image[y][x][1] = x % 256;
+      image[y][x][2] = x / 2;
+    }
+  }
+}
+
+int render::prepare(){
+  struct area_coord crd;
+  crd.x_s = -2.0;
+  crd.y_s = -2.0;
+  crd.x_e = 2.0;
+  crd.y_e = 2.0;
+  
+  tl = new tile(&crd,width,height);
+  tl->calc_me();
+  tl->make_texture();
+
+#if 0
+  glGenBuffers(1,&index_buffer);
+  glBindBuffer(GL_PIXEL_UNPACK_BUFFER,index_buffer);
+  glBufferData(GL_PIXEL_UNPACK_BUFFER,sizeof(GLubyte)*3*width*height,tl->get_texture(),GL_STATIC_DRAW);
+#endif
+
+  glBindTexture(GL_TEXTURE_2D,texture);
+  glTexImage2D(GL_TEXTURE_2D,0,GL_RGB,width,height,0,GL_RGB,GL_UNSIGNED_BYTE,tl->get_texture());
+  glTexParameteri(GL_TEXTURE_2D,GL_TEXTURE_MAG_FILTER,GL_NEAREST);
+  glTexParameteri(GL_TEXTURE_2D,GL_TEXTURE_MIN_FILTER,GL_NEAREST);
+
+
+#if 0
+  glGenTextures(1,&tex_o);
+  glActiveTexture(GL_TEXTURE0);
+  glBindTexture(GL_TEXTURE_2D,tex_o);
+  glTexImage2D(GL_TEXTURE_2D,0,GL_RGB,width,height,0,GL_RGB,GL_UNSIGNED_BYTE,tl->get_texture());
+  glTexParameteri(GL_TEXTURE_2D,GL_TEXTURE_MAG_FILTER,GL_NEAREST);
+  glTexParameteri(GL_TEXTURE_2D,GL_TEXTURE_MIN_FILTER,GL_NEAREST);
+  
+
+  glGenFramebuffers(1,&fbo);
+  glGenRenderbuffers(2,rb);
+
+  glBindRenderbuffer(GL_RENDERBUFFER,rb[0]);
+  glRenderbufferStorageMultisample(GL_RENDERBUFFER,4,GL_RGBA,256,256);
+  glBindRenderbuffer(GL_RENDERBUFFER,rb[1]);
+  glRenderbufferStorageMultisample(GL_RENDERBUFFER,4,GL_DEPTH24_STENCIL8,256,256);
+
+  glBindFramebuffer(GL_FRAMEBUFFER,fbo);
+  glFramebufferRenderbuffer(GL_FRAMEBUFFER,GL_COLOR_ATTACHMENT0,GL_RENDERBUFFER,rb[0]);
+  glFramebufferRenderbuffer(GL_FRAMEBUFFER,GL_DEPTH_ATTACHMENT,GL_RENDERBUFFER,rb[1]);
+
+  glGenRenderbuffers(1,&depthRB);
+  glBindRenderbuffer(GL_RENDERBUFFER,depthRB);
+  glRenderbufferStorage(GL_RENDERBUFFER,GL_DEPTH24_STENCIL8,256,256);
+  glGenFramebuffers(1,&fbo_r);
+  glBindFramebuffer(GL_FRAMEBUFFER,fbo_r);
+  glFramebufferTexture2D(GL_FRAMEBUFFER,GL_COLOR_ATTACHMENT0,GL_TEXTURE_2D,tex_o,0);
+  glFramebufferRenderbuffer(GL_FRAMEBUFFER,GL_DEPTH_ATTACHMENT,GL_RENDERBUFFER,depthRB);
+#endif
+  
+  //  glFramebufferTexture(GL_FRAMEBUFFER,GL_COLOR_ATTACHMENT0,tex_o,0);
+  //  glFramebufferTexture2D(GL_FRAMEBUFFER,GL_COLOR_ATTACHMENT0,GL_TEXTURE_2D,tex_o,0);
+  
+  
+  need_recalc = 0;
+  return 0;
+}
+
+int render::draw(){
+  // drawImage();
+  if(need_recalc)
+    prepare();
+
+  #if 0
+  glMatrixMode(GL_PROJECTION);
+  glLoadIdentity();
+  //  gluPerspective(30.0,(GLdouble)width/(GLdouble)height,1.0,10.0);
+
+  glMatrixMode(GL_MODELVIEW);
+  glLoadIdentity();
+  gluLookAt(3.0,4.0,5.0,0.0,0.0,0.0,0.0,1.0,0.0);
+
+  glEnable(GL_DEPTH_TEST);
+  glEnable(GL_LIGHTING);
+  #endif
+
+  glViewport(0,0,1024,1024);
+  glMatrixMode(GL_PROJECTION);
+  glLoadIdentity();
+  glOrtho(-1.0,1.0,-1.0,1.0,1.0,-1.0);
+
+  glMatrixMode(GL_MODELVIEW);
+  glLoadIdentity();
+  
+
+  glEnable(GL_TEXTURE_2D);
+  glBindTexture(GL_TEXTURE_2D,texture);
+  
+  glBegin(GL_TRIANGLE_STRIP);
+  glTexCoord2f(0,0); glVertex3f(-0.9f,-0.9f,0);
+  glTexCoord2f(0,1); glVertex3f(-0.9f,0.9f,0);
+  glTexCoord2f(1,0); glVertex3f(0.9f,-0.9f,0);
+  glTexCoord2f(1,1); glVertex3f(0.9f,0.9f,0);
+
+  glBlitFramebuffer(0,0,2048,2048,0,0,1024,1024,GL_COLOR_BUFFER_BIT,GL_NEAREST);
+
+  
+  glEnd();
+
+  #if 0
+  
+  glBindFramebuffer(GL_FRAMEBUFFER,frame_buffer);
+  glViewport(0,0,1024,1024);
+
+  
+
+  glMatrixMode(GL_PROJECTION);
+  glLoadIdentity();
+
+  glMatrixMode(GL_MODELVIEW);
+  glLoadIdentity();
+
+  glViewport(0,0,1024,1024);
+
+  glDisable(GL_LIGHTING);
+  glDisable(GL_DEPTH_TEST);
+#endif
+  
+
+#if 0
+  gluLookAt(
+	    0.0, 0.0, 50.0, // 視点の位置x,y,z;
+	    0.0, 0.0, 20.0,   // 視界の中心位置の参照点座標x,y,z
+	    0.0, 0.0, 1.0);  //視界の上方向のベクトルx,y,z
+#endif
+
+  glPushMatrix();
+  glRasterPos2f(-1,-1);
+  glPixelZoom(mag_x,mag_y);  
+  //gluOrtho2D(0.0, 500.0, 0.0, 500.0);
+  
+
+  //glTranslatef(0.2,0.5,0);
+  //glScalef(1,2,0.5);
+
+  //  glBindBuffer(GL_PIXEL_UNPACK_BUFFER,index_buffer);
+
+#if 0
+  glDrawPixels(2048,2048,GL_RGB,GL_UNSIGNED_BYTE,0);
+
+  glBindTexture(GL_TEXTURE_2D,0);
+  glBindFramebuffer(GL_FRAMEBUFFER,fbo);
+
+  glBindFramebuffer(GL_DRAW_FRAMEBUFFER,fbo_r);
+  glBindFramebuffer(GL_READ_FRAMEBUFFER,fbo);
+  glBlitFramebuffer(0,0,2048,2048,0,0,1024,1024,GL_COLOR_BUFFER_BIT,GL_LINEAR);
+  
+  glBindFramebuffer(GL_FRAMEBUFFER,0);
+  glBindTexture(GL_TEXTURE_2D,tex_o);
+  
+  //glBlitFramebuffer(0,0,2048,2048,0,0,1024,1024,GL_COLOR_BUFFER_BIT,GL_NEAREST);
+
+  
+
+  //glDrawPixels(2048,2048,GL_RGB,GL_UNSIGNED_BYTE,tl->get_texture());
+  // glDrawPixels(IMG_X,IMG_Y,GL_RGB,GL_UNSIGNED_BYTE,image);
+    
+    glPopMatrix();
+#endif
+    
+  return 0;
+}
+
+#define MAG_STEP 0.005
+void render::magnify(){
+  mag_x += MAG_STEP;
+  mag_y += MAG_STEP;
+  printf("mag is %f now\n",mag_x);
+}
+#define WIDE_STEP 0.1
+void render::wide(){
+  mag_x -= WIDE_STEP;
+  mag_y -= WIDE_STEP;
+  printf("mag is %f now\n",mag_x);
+}
